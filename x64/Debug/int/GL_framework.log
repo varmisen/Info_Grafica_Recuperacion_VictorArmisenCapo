@@ -1,0 +1,8 @@
+﻿  my_render_code.cpp
+c:\users\v\desktop\info_grafica_recuperacion\code\my_render_code.cpp(293): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\v\desktop\info_grafica_recuperacion\code\my_render_code.cpp(472): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\v\desktop\info_grafica_recuperacion\code\my_render_code.cpp(1205): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\v\desktop\info_grafica_recuperacion\code\my_render_code.cpp(1709): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  GL_framework.vcxproj -> C:\Users\V\Desktop\Info_Grafica_Recuperacion\x64\Debug\GL_framework.exe
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
